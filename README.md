@@ -34,4 +34,92 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out
+
+
+<! DOCTYPE html >
+< html >
+  < cabeza >
+    < meta  charset = " UTF-8 " />
+    < link  rel = " short icon " href = " img / logo.png " />
+    < enlace
+      href = " https://fonts.googleapis.com/css2?family=Oswald&display=swap "
+      rel = " hoja de estilo "
+    />
+    < link  rel = " stylesheet " href = " css / style.css " />
+    < título > Proyecto Integrador - Semestre V </ título >
+  </ cabeza >
+
+  < cuerpo >
+    <! - Banner del logo ->
+    < section  id = " banner " >
+      < div  class = " contenido " >
+        < encabezado >
+        </ encabezado >
+        < span  class = " imagen " >
+          < img  src = " img / logo.png " alt = "" >
+        </ span >
+        </ encabezado >
+      </ div >
+    </ sección >
+
+
+
+
+    < encabezado >
+      < div  class = " contenedor " >
+        < div  class = " logo-centro " >
+          < Un  href = " # " clase =" enlance_logo " >
+            < img  class = " logo " src = " img / logo.png " />
+          </ a >
+        </ div >
+        < nav >
+          < Un  href = " Inicio " > Inicio </ una >
+          < Un  href = " Inicio " > Misión </ una >
+          < Un  href = " Inicio " > Visión </ a >
+          < Un  href = " Inicio " > Servicios </ una >
+          < Un  href = " Inicio " > Contacto </ una >
+          < Un  href = " Inicio " > Nosotros </ una >
+          < Un  href = " Inicio " > Prueba </ una >
+        </ nav >
+      </ div >
+    </ encabezado >
+  </ cuerpo >
+
+  < pie de página > </ pie de página >
+</ html >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
